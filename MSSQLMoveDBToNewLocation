@@ -1,4 +1,12 @@
-
+--
+-- Name: MSSQLMoveDBToNewLocation
+-- Created Date: 2020-04-29
+-- Purpose: Move databases
+-- Usage: SQL, PowerShell
+-- 
+-- Instructions//
+-- Update database name [DATABASE_TO_MOVE]
+-- Update paths C:\, F:\ and G:\
 --
 -- SQL-START
 --
